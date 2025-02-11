@@ -5,7 +5,7 @@ public record Champions(
     String name,
     String role,
     String lore,
-    String imageUrl
+    String image_url
 
 ) {
 }

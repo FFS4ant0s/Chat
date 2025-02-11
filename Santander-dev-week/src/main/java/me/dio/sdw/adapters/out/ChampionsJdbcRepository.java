@@ -1,4 +1,4 @@
-package me.dio.sdw.adapters_out;
+package me.dio.sdw.adapters.out;
 
 import java.util.List;
 import java.util.Optional;

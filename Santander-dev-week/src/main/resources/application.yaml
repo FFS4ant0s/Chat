@@ -10,3 +10,11 @@ spring:
   h2:
     console:
       enabled: true
+
+openai:
+  base-url: https://api.openai.com/v1/chat/completions
+  api-key: ${OPENAI_API_KEY}
+
+gemini:
+  base-url: ddgdg
+  api-key: ${GEMINI_API_KEY}
